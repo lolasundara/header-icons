@@ -1,3 +1,7 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Merriweather', serif;
+  background-color: #fff;
 
 nav ul li {
   display: inline-block;
