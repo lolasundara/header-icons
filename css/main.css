@@ -8,6 +8,12 @@ html {
   box-sizing: inherit;
 }
 
+h1 {
+  font-size: 2rem;
+  font-family: 'Merriweather', serif;
+  color: #fff;
+}
+
 nav ul li {
   display: inline-block;
   list-style-type: none;
