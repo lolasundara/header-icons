@@ -19,4 +19,10 @@ nav ul li {
   font-size: 1.125rem;
   line-height: 1.5;
   padding: .4rem 0;
+  font-family: 'Merriweather', serif;
+  color: #fff;
+}
+ul :hover{
+  background-color: #a63f38;
+
 }
