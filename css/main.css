@@ -10,6 +10,9 @@ h1 {
   font-size: 2rem;
   font-family: 'Merriweather', serif;
   color: #fff;
+  text-align: center;
+  background-color: #d05c2e;
+  margin: 0 0 .7rem;
 }
 
 nav ul li {
@@ -29,5 +32,9 @@ nav {
 
 ul :hover{
   background-color: #a63f38;
+  margin-top: 0;
+}
 
+body {
+  color: #d05c2e;
 }
