@@ -1,7 +1,5 @@
 html {
   box-sizing: border-box;
-  font-family: 'Merriweather', serif;
-  background-color: #fff;
 }
 
 *, *::before, *::after {
