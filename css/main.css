@@ -12,7 +12,7 @@ h1 {
   color: #fff;
   text-align: center;
   background-color: #d05c2e;
-  margin: 0 0 .7rem;
+  margin: 0;
 }
 
 nav ul li {
@@ -32,9 +32,10 @@ nav {
 
 ul :hover{
   background-color: #a63f38;
-  margin-top: 0;
+  margin: 0;
 }
 
 body {
   color: #d05c2e;
+  margin: 0;
 }
