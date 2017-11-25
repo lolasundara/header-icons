@@ -8,7 +8,7 @@ html {
 
 h1 {
   font-size: 2rem;
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
   color: #fff;
   text-align: center;
   background-color: #d05c2e;
@@ -22,7 +22,7 @@ nav ul li {
   font-size: 1.125rem;
   line-height: 1.5;
   padding: .4rem 0;
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
   color: #fff;
 }
 
