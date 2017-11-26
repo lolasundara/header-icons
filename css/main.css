@@ -9,6 +9,7 @@ html {
 h1 {
   font-size: 2rem;
   font-family: Merriweather, serif;
+  font-weight: bold;
   color: #fff;
   text-align: center;
   background-color: #d05c2e;
