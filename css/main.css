@@ -36,7 +36,10 @@ nav {
 
 ul :hover {
   background-color: #a63f38;
-  margin: 0;
+}
+
+ul {
+  margin-top: 0;
 }
 
 body {
