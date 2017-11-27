@@ -16,6 +16,7 @@ h1 {
   padding-top: .4em;
   padding-bottom: .4em;
   position: absolute;
+  width: 100%;
 }
 
 nav ul li {
@@ -50,8 +51,13 @@ figure {
 div .left {
   position: relative;
   float: left;
+  width: 40px;
 }
 
 div .right {
   float: right;
+  position: relative;
+  width: 40px;
 }
+
+/* play with the width of the image to float properly, then fix the h2 */
