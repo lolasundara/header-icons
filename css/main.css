@@ -47,7 +47,7 @@ nav {
   padding: 0;
 }
 
-ul :hover {
+nav ul :hover {
   background-color: #a63f38;
 }
 
@@ -64,16 +64,6 @@ body {
 
 figure {
   margin: 0;
-}
-
-img .left {
-  float: left;
-  width: 40px;
-}
-
-img .right {
-  float: right;
-  width: 40px;
 }
 
 /* play with the width of the image to float properly, then fix the h2 */
