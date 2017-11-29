@@ -6,12 +6,15 @@ html {
   box-sizing: inherit;
 }
 
+header {
+  background-color: #d05c2e;
+  color: #fff;
+}
+
 h1 {
   font-size: 2rem;
   font-family: Merriweather, serif;
-  color: #fff;
   text-align: center;
-  background-color: #d05c2e;
   margin: 0;
   padding-top: .4em;
   padding-bottom: .4em;
@@ -20,7 +23,12 @@ h1 {
 }
 
 li {
+  display: inline-block;
   padding: .4rem 0;
+}
+
+nav li {
+  display: inline-block;
 }
 
 nav ul li {
@@ -58,15 +66,13 @@ figure {
   margin: 0;
 }
 
-div .left {
-  position: relative;
+img .left {
   float: left;
   width: 40px;
 }
 
-div .right {
+img .right {
   float: right;
-  position: relative;
   width: 40px;
 }
 
