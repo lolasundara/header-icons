@@ -18,6 +18,7 @@ header {
 }
 
 h1 {
+  display: inline-block;
   margin: 0;
 }
 
@@ -46,6 +47,18 @@ ul {
   list-style-type: none;
   float: left;
   width: 33.3%;
+}
+
+.list a {
+  display: inline-block;
+  padding: .5rem;
+  border-right: 1px solid #a63f38;
+  border-left: 1px solid #a63f38;
+  width: 100%;
+}
+
+a:hover {
+  background-color: #a63f38;
 }
 
 body {
